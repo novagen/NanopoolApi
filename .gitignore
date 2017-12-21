@@ -6,3 +6,4 @@
 /.vs
 */bin
 /packages
+*/Apparent.Nanopool.Api.*.nupkg

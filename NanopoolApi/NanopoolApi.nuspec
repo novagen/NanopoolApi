@@ -2,14 +2,13 @@
 <package >
   <metadata>
     <id>Apparent.Nanopool.Api</id>
-    <version>$version$</version>
+    <version>1.0.1</version>
     <title>Apparent Nanopool API</title>
     <authors>Novagen</authors>
     <owners>Novagen</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Access the Nanopool API</description>
-    <releaseNotes>First release</releaseNotes>
-    <copyright>Copyright 2017</copyright>
+    <description>Wrapper for the Nanopool API, built in C#</description>
     <tags>nanopool api</tags>
+	<projectUrl>https://github.com/Novagen/NanopoolApi</projectUrl>
   </metadata>
 </package>

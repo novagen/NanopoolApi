@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("NanopoolApi")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Wrapper for the Nanopool API, built in C#")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Apparent")]
 [assembly: AssemblyProduct("NanopoolApi")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
