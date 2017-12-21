@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Apparent.Nanopool.Api</id>
+    <version>$version$</version>
+    <title>Apparent Nanopool API</title>
+    <authors>Novagen</authors>
+    <owners>Novagen</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Access the Nanopool API</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>nanopool api</tags>
+  </metadata>
+</package>
