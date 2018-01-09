@@ -1,11 +1,17 @@
 ﻿using NanopoolApi.Data;
 using Newtonsoft.Json;
+using System.Collections.Generic;
 
 namespace NanopoolApi.Response
 {
 	public class Payments : Response
 	{
 		[JsonProperty("data")]
-		public Payment[] Data { get; set; }
+		public List<Payment> Data { get; set; }
+
+		public Payments()
+		{
+			Data = new List<Payment>();
+		}
 	}
 }

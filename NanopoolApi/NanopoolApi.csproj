@@ -43,11 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\Data.cs" />
     <Compile Include="Data\Payment.cs" />
     <Compile Include="Response\FloatValue.cs" />
     <Compile Include="Response\AverageHashrate.cs" />
     <Compile Include="Data\AverageHashrate.cs" />
-    <Compile Include="Data\AvgHashrate.cs" />
     <Compile Include="Response\Payments.cs" />
     <Compile Include="Response\Response.cs" />
     <Compile Include="Response\Blocks.cs" />

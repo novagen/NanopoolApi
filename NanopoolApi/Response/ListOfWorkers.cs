@@ -8,5 +8,10 @@ namespace NanopoolApi.Response
 	{
 		[JsonProperty("data")]
 		public List<Worker> Data { get; set; }
+
+		public ListOfWorkers()
+		{
+			Data = new List<Worker>();
+		}
 	}
 }
