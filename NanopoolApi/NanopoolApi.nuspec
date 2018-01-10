@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Apparent.Nanopool.Api</id>
-    <version>1.0.1</version>
+    <version>1.0.3</version>
     <title>Apparent Nanopool API</title>
     <authors>Novagen</authors>
     <owners>Novagen</owners>
